@@ -27,4 +27,4 @@ Welcome to my GitHub profile!
 
 ---
 
-✨ Thanks for visiting! Explore my repositories to see my work, ideas, and collaborations.  
+<h3 align="center">✨ Thanks for visiting! Please feel free to connect if you’d like to collaborate, share ideas, or just say hi. ✨</h3>
