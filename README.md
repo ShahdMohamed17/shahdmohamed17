@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there, I’m Shahd 👋</h1>
 
-<!--
-**ShahdMohamed17/shahdmohamed17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🎓 Computer Science student at the Arab Academy for Science and Technology  
+- 🏆 **Expert-ranked competitive programmer** on Codeforces, with 5+ years of problem-solving experience  
+- 💻 Technical expert in software development, algorithms, and large-scale systems  
+- 🌍 Founder & leader of **Girls of Code Community (GOC)** and **AAST Competitive Programming Club**   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Expertise  
+- **Languages:** C++, Java, Python, PHP, SQL, JavaScript
+- **Frameworks & Tools:** Flutter, JavaFX, React, Node.js, Git/GitHub  
+- **Backend & APIs:** REST APIs, PHP with MySQL
+- **Other Expertise:** Data Structures & Algorithms, Object-Oriented Design, Multithreading, File & Database Storage, Machine Learning fundamentals, Cybersecurity Fundamentals
+
+
+## ✨ Achievements  
+- 🥇 Gold Medalist at ECPC Teens  
+- 🥈 Silver Medalist at ACPC Teens Solo  
+- 🏆 Champion at IIOT competition   
+- 🎤 Speaker and mentor in coding and tech communities  
+
+## 📫 Let’s Connect  
+- 📧 Email: **shahdmohamed172005@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/shahdmohamed17](https://linkedin.com/in/shahdmohamed17)  
+
+---
+
+✨ Thanks for visiting! Explore my repositories to see my work, ideas, and collaborations.  
